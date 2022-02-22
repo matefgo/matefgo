@@ -35,8 +35,9 @@
 <br />
 
 ```
-🚧 there's a lot more to show here!
+🚧 there's a lot more to show here! i'll be back soon.
 ```
 
 [^1]: This beautiful whale SVG was provided by [OpenMoji](https://openmoji.org/library/#search=whale)
+
 
