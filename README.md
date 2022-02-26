@@ -18,9 +18,9 @@
 </div>
 <br />
 <p align="center">
-  I'm a front end developer, currently working but still studying.<br />
+  I'm a front end developer, working and studying to develop my skills!<br />
   I really enjoy new technologies, but I'm trying to focus now on what I call "the front triad" (Angular, React and Vue).<br />
-  Well, now I gotta keep studying hard, write and check my tests, and keep learning how to code (properly!).<br />
+  I'll keep studying hard, writing and checking my tests, always looking to improve.<br />
 </p>
 <h4 align="center">Thank you for stopping by, see you soon!</h4>
 <br />
@@ -39,5 +39,3 @@
 ```
 
 [^1]: This beautiful whale SVG was provided by [OpenMoji](https://openmoji.org/library/#search=whale)
-
-
